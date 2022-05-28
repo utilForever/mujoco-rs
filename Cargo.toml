@@ -1,0 +1,13 @@
+[package]
+name = "mujoco-rs"
+version = "0.1.0"
+authors = [ "Chris Ohk <utilforever@gmail.com>" ]
+edition = "2021"
+description = "Re-Implementation MuJoCo Physics in Rust - A general purpose physics simulator"
+
+readme = "README.md"
+license = "Apache-2.0"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
